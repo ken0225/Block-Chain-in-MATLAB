@@ -33,7 +33,7 @@ classdef Miner < handle
                 break
             end
 		iter = iter + 1;
-        end
+            end
         toc
         
     end
