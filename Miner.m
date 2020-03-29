@@ -34,9 +34,8 @@ classdef Miner < handle
             end
 		iter = iter + 1;
             end
-        toc
-        
-    end
+        toc        
+        end
     
     end
 end
