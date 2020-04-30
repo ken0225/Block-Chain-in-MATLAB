@@ -22,7 +22,7 @@
 
 
 
-## run 'TradingTest.m' to get result. 
+## Run 'TradingTest.m' to get result. 
 
 ## 'DataHash.m' is from https://www.mathworks.com/matlabcentral/fileexchange/31272-datahash
 
