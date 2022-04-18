@@ -1,4 +1,4 @@
-# Block-Chain-MATLAB
+# Block-Chain-by-MATLAB: A Blockchain Implementation in MATLAB
 
 
            index: 0
