@@ -30,7 +30,7 @@
 
 * The_Gambler’s_Ruin_Problem_and_Block_Chain.pdf shows how to obtain the equation (4) in [1].
 
-* Reference: 
+## Reference: 
 
 [1] Nakamoto, Satoshi. (2009). Bitcoin: A Peer-to-Peer Electronic Cash System.  
 
