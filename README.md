@@ -22,15 +22,15 @@
 
 
 
-## Run 'TradingTest.m' to get result. 
+* Run 'TradingTest.m' to get result. 
 
-## 'DataHash.m' is from https://www.mathworks.com/matlabcentral/fileexchange/31272-datahash.
+* 'DataHash.m' is from https://www.mathworks.com/matlabcentral/fileexchange/31272-datahash.
 
-## Block_Chain_MATLAB_Implementation.pdf includes some implementation details.
+* Block_Chain_MATLAB_Implementation.pdf includes some implementation details.
 
-## The_Gambler’s_Ruin_Problem_and_Block_Chain.pdf shows how to obtain the equation (4) in [1].
+* The_Gambler’s_Ruin_Problem_and_Block_Chain.pdf shows how to obtain the equation (4) in [1].
 
-## Reference: 
+* Reference: 
 
 [1] Nakamoto, Satoshi. (2009). Bitcoin: A Peer-to-Peer Electronic Cash System.  
 
